@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://dobongdong.8222quick.com/sitemap.xml
